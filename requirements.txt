@@ -1,0 +1,7 @@
+torch
+transformers
+datasets
+peft
+hydra-core
+wandb
+omegaconf
