@@ -1,0 +1,8 @@
+defaults:
+  - data: data
+  - model: model
+  - train: train
+
+wandb:
+  project: 'llama2-finetuning-korquad'
+  entity: 'whybe-choi'
